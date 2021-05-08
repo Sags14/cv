@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  font-size: 100px;
+}
+img:hover {
+  background-color: red;
+}
+
+.bacon {
+  background-color: yellow;
+  border-radius: 40px;
+}
+.apple {
+  background-color: aquamarine;
+}
